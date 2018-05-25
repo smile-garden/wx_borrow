@@ -9,7 +9,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.6.4",
-	"appid": "wx115c40eaf7a2065b",
+	"appid": "", //APPid
 	"projectname": "borrow",
 	"condition": {
 		"search": {
